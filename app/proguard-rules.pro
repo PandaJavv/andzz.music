@@ -1,0 +1,3 @@
+-keep class com.andzz.music.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
